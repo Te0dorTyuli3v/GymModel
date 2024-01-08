@@ -1,0 +1,10 @@
+﻿Generated model file: GymModel.edmx.
+Loading metadata from the database took 00:00:01.5941198.
+Generating the model took 00:00:02.4106664.
+Added the connection string to the App.Config file.
+Writing the .edmx file took 00:00:00.0014551.
+Generated model file: GymModel.edmx.
+Loading metadata from the database took 00:00:00.9584816.
+Generating the model took 00:00:01.7942368.
+Unable to update the App.Config file because of the following exception: 'The configuration file does not have the correct format. Try editing the file manually and then saving it.'
+Writing the .edmx file took 00:00:00.0013832.
